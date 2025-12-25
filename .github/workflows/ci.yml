@@ -44,9 +44,8 @@ jobs:
           echo "Build artifacts created successfully"
           ls -la dist/
 
-      - name: Build Next.js demo (optional)
-        run: pnpm run build
-        continue-on-error: true
+      # Note: Next.js demo build skipped in CI
+      # The library build (build-lib) is what matters for the npm package
 
       - name: Upload build artifacts
         if: matrix.node-version == '20.x'
