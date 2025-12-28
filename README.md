@@ -27,6 +27,30 @@ A powerful, schema-driven data view component for React, built with modern aesth
 - **SaaS Applications**: Add "Airtable-like" or "Notion-like" database features to your customer-facing app.
 - **Rapid Prototyping**: Visualize data structures immediately without writing custom UI code for each entity.
 
+## Screenshots
+### Grid View
+
+<img width="1915" height="497" alt="image" src="https://github.com/user-attachments/assets/85208fdb-2aee-4032-adf7-af826bc87faa" />
+
+### Form View
+
+<img width="1918" height="725" alt="image" src="https://github.com/user-attachments/assets/e1396cd0-7041-4c8b-bf09-a884e7c27bbc" />
+
+### Kanban View
+
+<img width="1919" height="583" alt="image" src="https://github.com/user-attachments/assets/8228770a-6c8d-4d44-9c3c-802a4c2a10c4" />
+
+
+### Galery View
+
+<img width="1895" height="546" alt="image" src="https://github.com/user-attachments/assets/302046b0-164c-41d0-8130-1cca2196e3ef" />
+
+
+### Calendar View
+
+<img width="1917" height="643" alt="image" src="https://github.com/user-attachments/assets/cec39206-18a2-4956-aa74-97cf40630546" />
+
+
 ## Usage
 
 ### Installation
